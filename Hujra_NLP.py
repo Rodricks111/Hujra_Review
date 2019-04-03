@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 # -*- coding: utf-8 -*-
 """
 
@@ -58,4 +58,4 @@ y_pred = classifier_x.predict(x)
 from sklearn.metrics import confusion_matrix
 cm_total = confusion_matrix(y, y_pred)
 
-
+"""
